@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Razwanul Islam tanvir</h1>
 <h3 align="center">A passionate Software Engineer also a Computer Science graduate.</h3>
 
-<p align="left"> <img src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/f99a46e1-14dd-46ad-abf1-c0ffbbd7bdb6" />
-" alt="ritanvir" /> </p>
+
 
 
 - 💬 Ask me about **any Software solution**
@@ -11,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/37fc36bf-3ad3-4184-99a7-59e72aa38a3e" />
-">
+
 <p align="left">
 <a href="https://linkedin.com/in/ri-tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ri-tanvir" height="30" width="40" /></a>
 <a href="https://fb.com/rezis.tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezis.tanvir" height="30" width="40" /></a>
