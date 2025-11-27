@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="coding" width="400" src="<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/37fc36bf-3ad3-4184-99a7-59e72aa38a3e" />
+">
 <p align="left">
 <a href="https://linkedin.com/in/ri-tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ri-tanvir" height="30" width="40" /></a>
 <a href="https://fb.com/rezis.tanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezis.tanvir" height="30" width="40" /></a>
@@ -22,6 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritanvir&show_icons=true&locale=en" alt="ritanvir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritanvir&" alt="ritanvir" /></p>
+
 
  
