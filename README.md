@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Razwanul Islam tanvir</h1>
 <h3 align="center">A passionate Software Engineer also a Computer Science graduate.</h3>
 
-<p align="left"> <img src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/b01947c2-d162-4709-850c-bce7681a9077" />
-" /> </p>
+
 
 - 💬 Ask me about **any Software solution**
 
